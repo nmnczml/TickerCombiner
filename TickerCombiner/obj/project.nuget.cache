@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+8FWnXmmRpQoMgeLBL1WfgiUpEkh5y5AtR6h/zWBvU6Ojq9usS98raUaCCiqHV9qD/C4EJtUWT74c6PVVCeTQ==",
+  "success": true,
+  "projectFilePath": "/Users/numancizmeli/Documents/Codes/WebSites/botforcoinWeb/TickerCombiner/TickerCombiner.csproj",
+  "expectedPackageFiles": [
+    "/Users/numancizmeli/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/numancizmeli/.nuget/packages/system.reactive/4.3.2/system.reactive.4.3.2.nupkg.sha512",
+    "/Users/numancizmeli/.nuget/packages/system.threading.channels/4.7.0/system.threading.channels.4.7.0.nupkg.sha512",
+    "/Users/numancizmeli/.nuget/packages/websocket.client/4.3.30/websocket.client.4.3.30.nupkg.sha512"
+  ],
+  "logs": []
+}

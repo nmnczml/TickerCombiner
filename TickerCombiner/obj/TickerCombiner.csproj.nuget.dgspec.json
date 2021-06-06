@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/numancizmeli/Documents/Codes/WebSites/botforcoinWeb/TickerCombiner/TickerCombiner.csproj": {}
+  },
+  "projects": {
+    "/Users/numancizmeli/Documents/Codes/WebSites/botforcoinWeb/TickerCombiner/TickerCombiner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/numancizmeli/Documents/Codes/WebSites/botforcoinWeb/TickerCombiner/TickerCombiner.csproj",
+        "projectName": "TickerCombiner",
+        "projectPath": "/Users/numancizmeli/Documents/Codes/WebSites/botforcoinWeb/TickerCombiner/TickerCombiner.csproj",
+        "packagesPath": "/Users/numancizmeli/.nuget/packages/",
+        "outputPath": "/Users/numancizmeli/Documents/Codes/WebSites/botforcoinWeb/TickerCombiner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/numancizmeli/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Websocket.Client": {
+              "target": "Package",
+              "version": "[4.3.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
